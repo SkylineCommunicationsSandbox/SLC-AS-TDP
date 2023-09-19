@@ -16,6 +16,7 @@
 	</PropertyGroup>
 	<ItemGroup>
 		<PackageReference Include="Skyline.DataMiner.Dev.Automation" Version="10.1.0.6" />
+		<PackageReference Include="Skyline.DataMiner.Empower.Library.Room0" Version="1.0.4" />
 	</ItemGroup>
 	<ProjectExtensions>
 	    <VisualStudio>
