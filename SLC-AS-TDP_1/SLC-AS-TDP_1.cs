@@ -20,7 +20,7 @@ namespace SLC_AS_TDP_1
 		{
 			engine.GenerateInformation("Hello world! blabla");
 
-			var order = OrderFactory.CreateOrder("Order 1");
+			var order = OrderFactory.CreateOrder("JansChange Order 1");
 			order.Dispatch("Tobe Deprez");
         }
 	}
